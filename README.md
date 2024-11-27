@@ -1,2 +1,5 @@
-# devnotes
- ths is everything i learned so far
+# this is my developer log
+ 
+## Dev Log
+
+### got github setup, desktop version;
